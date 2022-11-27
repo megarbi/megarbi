@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 MeGARBi_Lab
+Laboratory of Medical Genetics And RNA Biology
 
 <!--
 **megarbi/megarbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
